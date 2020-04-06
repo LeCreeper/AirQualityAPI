@@ -9,4 +9,5 @@ and decided to remake our project in .NetFramework,
 where it was much easier to make a chart over our data. 
 
 Included is also a .txt file that holds the instructions for recreating our database,
-but the data itself is not included, so use dummy data if you try to run the project.
+as well as the .csv file that we imported into the MongoDB
+
