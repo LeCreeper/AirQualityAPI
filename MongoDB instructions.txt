@@ -6,4 +6,5 @@
 # IMPORTING DATA
 We had the data in a SQL database, where we made a view with the attributes we wanted,
 and then exported 1000 records as a file, we then converted to .csv format,
-and imported it into the MongoDB using MongoDB Compass.
+and imported it into the MongoDB using MongoDB Compass. 
+The .csv file is included in the repository.
