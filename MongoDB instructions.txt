@@ -1,0 +1,9 @@
+# CREATING THE DATABASE
+# use db AirQualityDB
+
+# db.createCollection('MeasurementsFinal')
+
+# IMPORTING DATA
+We had the data in a SQL database, where we made a view with the attributes we wanted,
+and then exported 1000 records as a file, we then converted to .csv format,
+and imported it into the MongoDB using MongoDB Compass.
