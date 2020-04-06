@@ -1,0 +1,3 @@
+@Imports AirQualityAPI_.NetFramework_.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
