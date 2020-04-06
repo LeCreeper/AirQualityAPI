@@ -1,0 +1,12 @@
+This project uses a MongoDB to store Data about Air Quality, 
+and then a .NetFramework MVC project to get the data from a collection in the Mongo Database, 
+which we can then use to make a linechart over the readings of Ozone at a specific location. 
+
+Included is also an earlier project, a .NetCore API, that attempts to do the same.
+This project however could only get the data from the Mongo Database, 
+as we struggled to find a way to visually represent the data, 
+and decided to remake our project in .NetFramework, 
+where it was much easier to make a chart over our data. 
+
+Included is also a .txt file that holds the instructions for recreating our database,
+but the data itself is not included, so use dummy data if you try to run the project.
