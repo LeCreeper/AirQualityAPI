@@ -1,0 +1,1006 @@
+﻿EnhedId,RåResultat,Enhedsnavn,Stofnavn,Datomærke,Målestedsnavn,ProduktId
+20,402.00,µg/m3,PM10,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424562
+20,234.10,µg/m3,PM10,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424563
+20,79.80,µg/m3,PM10,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424564
+20,34.50,µg/m3,PM10,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424565
+20,11.50,µg/m3,PM10,2018-12-31 23:00:00.000,Risø,32424566
+20,23.60,µg/m3,PM10,2018-12-31 23:30:00.000,Risø,32424567
+20,26.20,µg/m3,PM10,2019-01-01 00:00:00.000,Risø,32424568
+20,22.60,µg/m3,PM10,2019-01-01 00:30:00.000,Risø,32424569
+20,228.60,µg/m3,PM25,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424570
+20,121.00,µg/m3,PM25,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424571
+20,28.60,µg/m3,PM25,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424572
+20,18.00,µg/m3,PM25,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424573
+2,3.03,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,H.C.Ørsted Inst.,32424574
+2,9.98,ppb,NOx'er,2018-12-31 23:00:00.000,H.C.Ørsted Inst.,32424575
+5,0.09,ppm,Carbonmonooxid,2018-12-31 23:00:00.000,H.C.Ørsted Inst.,32424576
+2,28.66,ppb,Ozon,2018-12-31 23:00:00.000,H.C.Ørsted Inst.,32424577
+2,3.24,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,H.C.Ørsted Inst.,32424578
+2,13.61,ppb,NOx'er,2018-12-31 23:30:00.000,H.C.Ørsted Inst.,32424579
+5,0.12,ppm,Carbonmonooxid,2018-12-31 23:30:00.000,H.C.Ørsted Inst.,32424580
+2,25.65,ppb,Ozon,2018-12-31 23:30:00.000,H.C.Ørsted Inst.,32424581
+2,2.27,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,H.C.Ørsted Inst.,32424582
+2,6.92,ppb,NOx'er,2019-01-01 00:00:00.000,H.C.Ørsted Inst.,32424583
+5,0.09,ppm,Carbonmonooxid,2019-01-01 00:00:00.000,H.C.Ørsted Inst.,32424584
+2,2.46,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,H.C.Ørsted Inst.,32424586
+2,5.68,ppb,NOx'er,2019-01-01 00:30:00.000,H.C.Ørsted Inst.,32424587
+5,0.10,ppm,Carbonmonooxid,2019-01-01 00:30:00.000,H.C.Ørsted Inst.,32424588
+2,32.76,ppb,Ozon,2019-01-01 00:30:00.000,H.C.Ørsted Inst.,32424589
+2,2.54,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Aarhus Botanisk,32424590
+2,6.97,ppb,NOx'er,2018-12-31 23:00:00.000,Aarhus Botanisk,32424591
+2,30.85,ppb,Ozon,2018-12-31 23:00:00.000,Aarhus Botanisk,32424592
+2,4.10,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Aarhus Botanisk,32424593
+2,7.44,ppb,NOx'er,2018-12-31 23:30:00.000,Aarhus Botanisk,32424594
+2,32.61,ppb,Ozon,2018-12-31 23:30:00.000,Aarhus Botanisk,32424595
+2,1.73,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Aarhus Botanisk,32424596
+2,3.30,ppb,NOx'er,2019-01-01 00:00:00.000,Aarhus Botanisk,32424597
+2,34.42,ppb,Ozon,2019-01-01 00:00:00.000,Aarhus Botanisk,32424598
+2,1.78,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Aarhus Botanisk,32424599
+2,3.33,ppb,NOx'er,2019-01-01 00:30:00.000,Aarhus Botanisk,32424600
+2,34.36,ppb,Ozon,2019-01-01 00:30:00.000,Aarhus Botanisk,32424601
+2,3.87,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Ulborg,32424602
+2,5.49,ppb,NOx'er,2018-12-31 23:00:00.000,Ulborg,32424603
+2,32.04,ppb,Ozon,2018-12-31 23:00:00.000,Ulborg,32424604
+2,3.84,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Ulborg,32424605
+2,5.93,ppb,NOx'er,2018-12-31 23:30:00.000,Ulborg,32424606
+2,31.31,ppb,Ozon,2018-12-31 23:30:00.000,Ulborg,32424607
+2,3.74,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Ulborg,32424608
+2,4.82,ppb,NOx'er,2019-01-01 00:00:00.000,Ulborg,32424609
+2,3.97,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Ulborg,32424611
+2,5.19,ppb,NOx'er,2019-01-01 00:30:00.000,Ulborg,32424612
+2,31.83,ppb,Ozon,2019-01-01 00:30:00.000,Ulborg,32424613
+2,0.36,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Anholt - Radar stationen,32424614
+2,1.18,ppb,NOx'er,2018-12-31 23:00:00.000,Anholt - Radar stationen,32424615
+2,0.20,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Anholt - Radar stationen,32424616
+2,1.04,ppb,NOx'er,2018-12-31 23:30:00.000,Anholt - Radar stationen,32424617
+2,0.35,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Anholt - Radar stationen,32424618
+2,1.14,ppb,NOx'er,2019-01-01 00:00:00.000,Anholt - Radar stationen,32424619
+2,0.47,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Anholt - Radar stationen,32424620
+2,1.40,ppb,NOx'er,2019-01-01 00:30:00.000,Anholt - Radar stationen,32424621
+2,14.38,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Hvidovre Fjeldstedvej,32424622
+2,22.08,ppb,NOx'er,2018-12-31 23:00:00.000,Hvidovre Fjeldstedvej,32424623
+2,8.62,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Hvidovre Fjeldstedvej,32424624
+2,15.53,ppb,NOx'er,2018-12-31 23:30:00.000,Hvidovre Fjeldstedvej,32424625
+2,6.35,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Hvidovre Fjeldstedvej,32424626
+2,9.28,ppb,NOx'er,2019-01-01 00:00:00.000,Hvidovre Fjeldstedvej,32424627
+2,6.04,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Hvidovre Fjeldstedvej,32424628
+2,8.03,ppb,NOx'er,2019-01-01 00:30:00.000,Hvidovre Fjeldstedvej,32424629
+2,-0.25,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Risø,32424630
+2,0.51,ppb,NOx'er,2018-12-31 23:00:00.000,Risø,32424631
+5,-0.14,ppm,Carbonmonooxid,2018-12-31 23:00:00.000,Risø,32424632
+2,34.60,ppb,Ozon,2018-12-31 23:00:00.000,Risø,32424633
+2,-0.40,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Risø,32424634
+2,0.78,ppb,NOx'er,2018-12-31 23:30:00.000,Risø,32424635
+5,-0.14,ppm,Carbonmonooxid,2018-12-31 23:30:00.000,Risø,32424636
+2,34.45,ppb,Ozon,2018-12-31 23:30:00.000,Risø,32424637
+2,-0.24,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Risø,32424638
+2,1.36,ppb,NOx'er,2019-01-01 00:00:00.000,Risø,32424639
+5,-0.15,ppm,Carbonmonooxid,2019-01-01 00:00:00.000,Risø,32424640
+2,33.21,ppb,Ozon,2019-01-01 00:00:00.000,Risø,32424641
+2,-0.31,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Risø,32424642
+2,0.92,ppb,NOx'er,2019-01-01 00:30:00.000,Risø,32424643
+5,-0.13,ppm,Carbonmonooxid,2019-01-01 00:30:00.000,Risø,32424644
+2,33.11,ppb,Ozon,2019-01-01 00:30:00.000,Risø,32424645
+2,7.66,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Århus gade (3),32424648
+2,11.17,ppb,NOx'er,2018-12-31 23:00:00.000,Århus gade (3),32424649
+5,0.01,ppm,Carbonmonooxid,2018-12-31 23:00:00.000,Århus gade (3),32424650
+2,3.50,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Århus gade (3),32424651
+2,6.00,ppb,NOx'er,2018-12-31 23:30:00.000,Århus gade (3),32424652
+5,-0.01,ppm,Carbonmonooxid,2018-12-31 23:30:00.000,Århus gade (3),32424653
+2,4.05,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Århus gade (3),32424654
+2,5.17,ppb,NOx'er,2019-01-01 00:00:00.000,Århus gade (3),32424655
+5,0.00,ppm,Carbonmonooxid,2019-01-01 00:00:00.000,Århus gade (3),32424656
+2,3.32,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Århus gade (3),32424657
+2,5.18,ppb,NOx'er,2019-01-01 00:30:00.000,Århus gade (3),32424658
+5,-0.01,ppm,Carbonmonooxid,2019-01-01 00:30:00.000,Århus gade (3),32424659
+2,9.13,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Jagtvej - Skur,32424660
+2,21.34,ppb,NOx'er,2018-12-31 23:00:00.000,Jagtvej - Skur,32424661
+2,10.16,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Jagtvej - Skur,32424662
+2,24.55,ppb,NOx'er,2018-12-31 23:30:00.000,Jagtvej - Skur,32424663
+2,9.41,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Jagtvej - Skur,32424664
+2,18.91,ppb,NOx'er,2019-01-01 00:00:00.000,Jagtvej - Skur,32424665
+2,2.74,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Aalborg Tag ny,32424666
+2,8.22,ppb,NOx'er,2018-12-31 23:00:00.000,Aalborg Tag ny,32424667
+2,31.79,ppb,Ozon,2018-12-31 23:00:00.000,Aalborg Tag ny,32424668
+2,-0.35,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Aalborg Tag ny,32424669
+2,1.93,ppb,NOx'er,2018-12-31 23:30:00.000,Aalborg Tag ny,32424670
+2,34.76,ppb,Ozon,2018-12-31 23:30:00.000,Aalborg Tag ny,32424671
+2,35.27,ppb,Ozon,2019-01-01 00:00:00.000,Aalborg Tag ny,32424674
+2,0.04,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Aalborg Tag ny,32424675
+2,1.32,ppb,NOx'er,2019-01-01 00:30:00.000,Aalborg Tag ny,32424676
+2,36.14,ppb,Ozon,2019-01-01 00:30:00.000,Aalborg Tag ny,32424677
+2,-0.10,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Føllesbjerg,32424678
+2,1.20,ppb,NOx'er,2018-12-31 23:00:00.000,Føllesbjerg,32424679
+2,29.59,ppb,Ozon,2018-12-31 23:00:00.000,Føllesbjerg,32424680
+2,-0.01,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Føllesbjerg,32424681
+2,1.62,ppb,NOx'er,2018-12-31 23:30:00.000,Føllesbjerg,32424682
+2,29.36,ppb,Ozon,2018-12-31 23:30:00.000,Føllesbjerg,32424683
+2,0.11,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Føllesbjerg,32424684
+2,2.02,ppb,NOx'er,2019-01-01 00:00:00.000,Føllesbjerg,32424685
+2,0.04,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Føllesbjerg,32424687
+2,2.26,ppb,NOx'er,2019-01-01 00:30:00.000,Føllesbjerg,32424688
+2,29.22,ppb,Ozon,2019-01-01 00:30:00.000,Føllesbjerg,32424689
+2,7.11,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,Odense Gade Grønløkkevej 20A,32424690
+2,12.16,ppb,NOx'er,2018-12-31 23:00:00.000,Odense Gade Grønløkkevej 20A,32424691
+5,0.11,ppm,Carbonmonooxid,2018-12-31 23:00:00.000,Odense Gade Grønløkkevej 20A,32424692
+2,3.05,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,Odense Gade Grønløkkevej 20A,32424693
+2,4.53,ppb,NOx'er,2018-12-31 23:30:00.000,Odense Gade Grønløkkevej 20A,32424694
+5,0.05,ppm,Carbonmonooxid,2018-12-31 23:30:00.000,Odense Gade Grønløkkevej 20A,32424695
+2,3.91,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,Odense Gade Grønløkkevej 20A,32424696
+2,5.07,ppb,NOx'er,2019-01-01 00:00:00.000,Odense Gade Grønløkkevej 20A,32424697
+5,0.00,ppm,Carbonmonooxid,2019-01-01 00:00:00.000,Odense Gade Grønløkkevej 20A,32424698
+2,2.90,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Odense Gade Grønløkkevej 20A,32424699
+2,4.43,ppb,NOx'er,2019-01-01 00:30:00.000,Odense Gade Grønløkkevej 20A,32424700
+5,0.00,ppm,Carbonmonooxid,2019-01-01 00:30:00.000,Odense Gade Grønløkkevej 20A,32424701
+2,9.52,ppb,Nitrogenmonooxid,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424702
+2,19.73,ppb,NOx'er,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424703
+5,0.26,ppm,Carbonmonooxid,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424704
+2,22.70,ppb,Ozon,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424705
+2,0.80,ppb,Svovldioxid,2018-12-31 23:00:00.000,H.C. Andersen Boulevard - Skur,32424706
+2,3.96,ppb,Nitrogenmonooxid,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424707
+2,15.39,ppb,NOx'er,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424708
+5,0.20,ppm,Carbonmonooxid,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424709
+2,21.06,ppb,Ozon,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424710
+2,1.18,ppb,Svovldioxid,2018-12-31 23:30:00.000,H.C. Andersen Boulevard - Skur,32424711
+2,2.39,ppb,Nitrogenmonooxid,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424712
+2,7.32,ppb,NOx'er,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424713
+5,0.19,ppm,Carbonmonooxid,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424714
+2,27.70,ppb,Ozon,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424715
+2,0.87,ppb,Svovldioxid,2019-01-01 00:00:00.000,H.C. Andersen Boulevard - Skur,32424716
+2,2.03,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424717
+2,6.52,ppb,NOx'er,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424718
+5,0.18,ppm,Carbonmonooxid,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424719
+2,28.13,ppb,Ozon,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424720
+2,0.32,ppb,Svovldioxid,2019-01-01 00:30:00.000,H.C. Andersen Boulevard - Skur,32424721
+20,18.90,µg/m3,PM10,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424766
+20,38.20,µg/m3,PM10,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424767
+20,28.30,µg/m3,PM10,2019-01-01 01:00:00.000,Risø,32424768
+20,29.60,µg/m3,PM10,2019-01-01 01:30:00.000,Risø,32424769
+20,7.70,µg/m3,PM25,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424770
+20,7.10,µg/m3,PM25,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424771
+2,2.32,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,H.C.Ørsted Inst.,32424772
+2,4.85,ppb,NOx'er,2019-01-01 01:00:00.000,H.C.Ørsted Inst.,32424773
+5,0.10,ppm,Carbonmonooxid,2019-01-01 01:00:00.000,H.C.Ørsted Inst.,32424774
+2,32.87,ppb,Ozon,2019-01-01 01:00:00.000,H.C.Ørsted Inst.,32424775
+2,2.04,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,H.C.Ørsted Inst.,32424776
+2,4.54,ppb,NOx'er,2019-01-01 01:30:00.000,H.C.Ørsted Inst.,32424777
+5,0.10,ppm,Carbonmonooxid,2019-01-01 01:30:00.000,H.C.Ørsted Inst.,32424778
+2,32.68,ppb,Ozon,2019-01-01 01:30:00.000,H.C.Ørsted Inst.,32424779
+2,1.63,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Aarhus Botanisk,32424780
+2,3.10,ppb,NOx'er,2019-01-01 01:00:00.000,Aarhus Botanisk,32424781
+2,34.44,ppb,Ozon,2019-01-01 01:00:00.000,Aarhus Botanisk,32424782
+2,1.64,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Aarhus Botanisk,32424783
+2,3.10,ppb,NOx'er,2019-01-01 01:30:00.000,Aarhus Botanisk,32424784
+2,34.24,ppb,Ozon,2019-01-01 01:30:00.000,Aarhus Botanisk,32424785
+2,0.55,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Anholt - Radar stationen,32424786
+2,1.59,ppb,NOx'er,2019-01-01 01:00:00.000,Anholt - Radar stationen,32424787
+2,0.35,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Anholt - Radar stationen,32424788
+2,1.51,ppb,NOx'er,2019-01-01 01:30:00.000,Anholt - Radar stationen,32424789
+2,6.35,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Hvidovre Fjeldstedvej,32424790
+2,8.00,ppb,NOx'er,2019-01-01 01:00:00.000,Hvidovre Fjeldstedvej,32424791
+2,6.28,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Hvidovre Fjeldstedvej,32424792
+2,7.88,ppb,NOx'er,2019-01-01 01:30:00.000,Hvidovre Fjeldstedvej,32424793
+2,-0.17,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Risø,32424794
+2,0.84,ppb,NOx'er,2019-01-01 01:00:00.000,Risø,32424795
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 01:00:00.000,Risø,32424796
+2,33.26,ppb,Ozon,2019-01-01 01:00:00.000,Risø,32424797
+2,-0.23,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Risø,32424798
+2,0.76,ppb,NOx'er,2019-01-01 01:30:00.000,Risø,32424799
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 01:30:00.000,Risø,32424800
+2,33.39,ppb,Ozon,2019-01-01 01:30:00.000,Risø,32424801
+2,2.95,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Århus gade (3),32424802
+2,5.61,ppb,NOx'er,2019-01-01 01:00:00.000,Århus gade (3),32424803
+5,-0.01,ppm,Carbonmonooxid,2019-01-01 01:00:00.000,Århus gade (3),32424804
+2,3.13,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Århus gade (3),32424805
+2,5.16,ppb,NOx'er,2019-01-01 01:30:00.000,Århus gade (3),32424806
+5,0.00,ppm,Carbonmonooxid,2019-01-01 01:30:00.000,Århus gade (3),32424807
+2,6.22,ppb,Nitrogenmonooxid,2019-01-01 00:30:00.000,Jagtvej - Skur,32424808
+2,11.10,ppb,NOx'er,2019-01-01 00:30:00.000,Jagtvej - Skur,32424809
+2,6.92,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Jagtvej - Skur,32424810
+2,12.55,ppb,NOx'er,2019-01-01 01:00:00.000,Jagtvej - Skur,32424811
+2,-0.12,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Aalborg Tag ny,32424812
+2,1.00,ppb,NOx'er,2019-01-01 01:00:00.000,Aalborg Tag ny,32424813
+2,36.49,ppb,Ozon,2019-01-01 01:00:00.000,Aalborg Tag ny,32424814
+2,-0.38,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Aalborg Tag ny,32424815
+2,0.46,ppb,NOx'er,2019-01-01 01:30:00.000,Aalborg Tag ny,32424816
+2,43.65,ppb,Ozon,2019-01-01 01:30:00.000,Aalborg Tag ny,32424817
+2,-0.11,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Føllesbjerg,32424818
+2,1.55,ppb,NOx'er,2019-01-01 01:00:00.000,Føllesbjerg,32424819
+2,31.49,ppb,Ozon,2019-01-01 01:00:00.000,Føllesbjerg,32424820
+2,0.05,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Føllesbjerg,32424821
+2,1.26,ppb,NOx'er,2019-01-01 01:30:00.000,Føllesbjerg,32424822
+2,32.53,ppb,Ozon,2019-01-01 01:30:00.000,Føllesbjerg,32424823
+2,2.06,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Odense Gade Grønløkkevej 20A,32424824
+2,3.14,ppb,NOx'er,2019-01-01 01:00:00.000,Odense Gade Grønløkkevej 20A,32424825
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 01:00:00.000,Odense Gade Grønløkkevej 20A,32424826
+2,2.95,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Odense Gade Grønløkkevej 20A,32424827
+2,3.79,ppb,NOx'er,2019-01-01 01:30:00.000,Odense Gade Grønløkkevej 20A,32424828
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 01:30:00.000,Odense Gade Grønløkkevej 20A,32424829
+2,3.68,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424830
+2,10.57,ppb,NOx'er,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424831
+5,0.16,ppm,Carbonmonooxid,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424832
+2,28.16,ppb,Ozon,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424833
+2,0.17,ppb,Svovldioxid,2019-01-01 01:00:00.000,H.C. Andersen Boulevard - Skur,32424834
+2,3.13,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424835
+2,7.49,ppb,NOx'er,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424836
+5,0.17,ppm,Carbonmonooxid,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424837
+2,28.58,ppb,Ozon,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424838
+2,0.10,ppb,Svovldioxid,2019-01-01 01:30:00.000,H.C. Andersen Boulevard - Skur,32424839
+20,21.50,µg/m3,PM10,2019-01-01 02:00:00.000,H.C. Andersen Boulevard - Skur,32424840
+20,18.70,µg/m3,PM10,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424841
+20,25.80,µg/m3,PM10,2019-01-01 02:00:00.000,Risø,32424842
+20,16.20,µg/m3,PM10,2019-01-01 02:30:00.000,Risø,32424843
+20,10.40,µg/m3,PM25,2019-01-01 02:00:00.000,H.C. Andersen Boulevard - Skur,32424844
+20,5.50,µg/m3,PM25,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424845
+2,2.05,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,H.C.Ørsted Inst.,32424846
+2,4.76,ppb,NOx'er,2019-01-01 02:00:00.000,H.C.Ørsted Inst.,32424847
+5,0.10,ppm,Carbonmonooxid,2019-01-01 02:00:00.000,H.C.Ørsted Inst.,32424848
+2,32.62,ppb,Ozon,2019-01-01 02:00:00.000,H.C.Ørsted Inst.,32424849
+2,1.97,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,H.C.Ørsted Inst.,32424850
+2,4.32,ppb,NOx'er,2019-01-01 02:30:00.000,H.C.Ørsted Inst.,32424851
+5,0.09,ppm,Carbonmonooxid,2019-01-01 02:30:00.000,H.C.Ørsted Inst.,32424852
+2,32.77,ppb,Ozon,2019-01-01 02:30:00.000,H.C.Ørsted Inst.,32424853
+2,1.79,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Aarhus Botanisk,32424854
+2,2.94,ppb,NOx'er,2019-01-01 02:00:00.000,Aarhus Botanisk,32424855
+2,1.73,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Aarhus Botanisk,32424857
+2,2.73,ppb,NOx'er,2019-01-01 02:30:00.000,Aarhus Botanisk,32424858
+2,34.31,ppb,Ozon,2019-01-01 02:30:00.000,Aarhus Botanisk,32424859
+2,0.43,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Anholt - Radar stationen,32424860
+2,1.13,ppb,NOx'er,2019-01-01 02:00:00.000,Anholt - Radar stationen,32424861
+2,0.35,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Anholt - Radar stationen,32424862
+2,0.98,ppb,NOx'er,2019-01-01 02:30:00.000,Anholt - Radar stationen,32424863
+2,6.26,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Hvidovre Fjeldstedvej,32424864
+2,7.56,ppb,NOx'er,2019-01-01 02:00:00.000,Hvidovre Fjeldstedvej,32424865
+2,6.32,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Hvidovre Fjeldstedvej,32424866
+2,7.63,ppb,NOx'er,2019-01-01 02:30:00.000,Hvidovre Fjeldstedvej,32424867
+2,-0.15,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Risø,32424868
+2,0.86,ppb,NOx'er,2019-01-01 02:00:00.000,Risø,32424869
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 02:00:00.000,Risø,32424870
+2,-0.30,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Risø,32424872
+2,0.51,ppb,NOx'er,2019-01-01 02:30:00.000,Risø,32424873
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 02:30:00.000,Risø,32424874
+2,33.97,ppb,Ozon,2019-01-01 02:30:00.000,Risø,32424875
+2,2.92,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Århus gade (3),32424876
+2,4.73,ppb,NOx'er,2019-01-01 02:00:00.000,Århus gade (3),32424877
+5,-0.01,ppm,Carbonmonooxid,2019-01-01 02:00:00.000,Århus gade (3),32424878
+2,1.98,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Århus gade (3),32424879
+2,3.52,ppb,NOx'er,2019-01-01 02:30:00.000,Århus gade (3),32424880
+5,-0.01,ppm,Carbonmonooxid,2019-01-01 02:30:00.000,Århus gade (3),32424881
+2,5.61,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Jagtvej - Skur,32424882
+2,11.23,ppb,NOx'er,2019-01-01 01:30:00.000,Jagtvej - Skur,32424883
+2,6.57,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Jagtvej - Skur,32424884
+2,11.57,ppb,NOx'er,2019-01-01 02:00:00.000,Jagtvej - Skur,32424885
+2,-0.49,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Aalborg Tag ny,32424886
+2,0.44,ppb,NOx'er,2019-01-01 02:00:00.000,Aalborg Tag ny,32424887
+2,-0.03,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Aalborg Tag ny,32424889
+2,0.63,ppb,NOx'er,2019-01-01 02:30:00.000,Aalborg Tag ny,32424890
+2,43.55,ppb,Ozon,2019-01-01 02:30:00.000,Aalborg Tag ny,32424891
+2,0.07,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Føllesbjerg,32424892
+2,1.20,ppb,NOx'er,2019-01-01 02:00:00.000,Føllesbjerg,32424893
+2,32.90,ppb,Ozon,2019-01-01 02:00:00.000,Føllesbjerg,32424894
+2,-0.01,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Føllesbjerg,32424895
+2,1.16,ppb,NOx'er,2019-01-01 02:30:00.000,Føllesbjerg,32424896
+2,32.19,ppb,Ozon,2019-01-01 02:30:00.000,Føllesbjerg,32424897
+2,1.68,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Odense Gade Grønløkkevej 20A,32424898
+2,2.29,ppb,NOx'er,2019-01-01 02:00:00.000,Odense Gade Grønløkkevej 20A,32424899
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 02:00:00.000,Odense Gade Grønløkkevej 20A,32424900
+2,1.87,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Odense Gade Grønløkkevej 20A,32424901
+2,2.53,ppb,NOx'er,2019-01-01 02:30:00.000,Odense Gade Grønløkkevej 20A,32424902
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 02:30:00.000,Odense Gade Grønløkkevej 20A,32424903
+2,4.31,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,H.C. Andersen Boulevard - Skur,32424904
+2,7.82,ppb,NOx'er,2019-01-01 02:00:00.000,H.C. Andersen Boulevard - Skur,32424905
+5,0.17,ppm,Carbonmonooxid,2019-01-01 02:00:00.000,H.C. Andersen Boulevard - Skur,32424906
+2,0.17,ppb,Svovldioxid,2019-01-01 02:00:00.000,H.C. Andersen Boulevard - Skur,32424908
+2,4.82,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424909
+2,8.70,ppb,NOx'er,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424910
+5,0.17,ppm,Carbonmonooxid,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424911
+2,28.45,ppb,Ozon,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424912
+2,-0.01,ppb,Svovldioxid,2019-01-01 02:30:00.000,H.C. Andersen Boulevard - Skur,32424913
+20,7.90,µg/m3,PM10,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424914
+20,12.10,µg/m3,PM10,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32424915
+20,15.40,µg/m3,PM10,2019-01-01 03:00:00.000,Risø,32424916
+20,13.40,µg/m3,PM10,2019-01-01 03:30:00.000,Risø,32424917
+20,2.30,µg/m3,PM25,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424918
+20,2.40,µg/m3,PM25,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32424919
+2,1.50,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Aarhus Botanisk,32424924
+2,2.34,ppb,NOx'er,2019-01-01 03:00:00.000,Aarhus Botanisk,32424925
+2,40.23,ppb,Ozon,2019-01-01 03:00:00.000,Aarhus Botanisk,32424926
+2,1.66,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Aarhus Botanisk,32424927
+2,2.35,ppb,NOx'er,2019-01-01 03:30:00.000,Aarhus Botanisk,32424928
+2,43.93,ppb,Ozon,2019-01-01 03:30:00.000,Aarhus Botanisk,32424929
+2,3.76,ppb,Nitrogenmonooxid,2019-01-01 01:00:00.000,Ulborg,32424930
+2,4.85,ppb,NOx'er,2019-01-01 01:00:00.000,Ulborg,32424931
+2,31.51,ppb,Ozon,2019-01-01 01:00:00.000,Ulborg,32424932
+2,3.97,ppb,Nitrogenmonooxid,2019-01-01 01:30:00.000,Ulborg,32424933
+2,5.32,ppb,NOx'er,2019-01-01 01:30:00.000,Ulborg,32424934
+2,31.39,ppb,Ozon,2019-01-01 01:30:00.000,Ulborg,32424935
+2,3.85,ppb,Nitrogenmonooxid,2019-01-01 02:00:00.000,Ulborg,32424936
+2,4.97,ppb,NOx'er,2019-01-01 02:00:00.000,Ulborg,32424937
+2,37.23,ppb,Ozon,2019-01-01 02:00:00.000,Ulborg,32424938
+2,3.85,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Ulborg,32424939
+2,4.74,ppb,NOx'er,2019-01-01 02:30:00.000,Ulborg,32424940
+2,40.32,ppb,Ozon,2019-01-01 02:30:00.000,Ulborg,32424941
+2,3.69,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Ulborg,32424945
+2,4.77,ppb,NOx'er,2019-01-01 03:30:00.000,Ulborg,32424946
+2,39.18,ppb,Ozon,2019-01-01 03:30:00.000,Ulborg,32424947
+2,0.34,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Anholt - Radar stationen,32424948
+2,0.90,ppb,NOx'er,2019-01-01 03:00:00.000,Anholt - Radar stationen,32424949
+2,0.42,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Anholt - Radar stationen,32424950
+2,0.92,ppb,NOx'er,2019-01-01 03:30:00.000,Anholt - Radar stationen,32424951
+2,6.23,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Hvidovre Fjeldstedvej,32424952
+2,7.36,ppb,NOx'er,2019-01-01 03:00:00.000,Hvidovre Fjeldstedvej,32424953
+2,6.48,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Hvidovre Fjeldstedvej,32424954
+2,7.60,ppb,NOx'er,2019-01-01 03:30:00.000,Hvidovre Fjeldstedvej,32424955
+2,-0.43,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Risø,32424956
+2,0.40,ppb,NOx'er,2019-01-01 03:00:00.000,Risø,32424957
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 03:00:00.000,Risø,32424958
+2,33.86,ppb,Ozon,2019-01-01 03:00:00.000,Risø,32424959
+2,-0.22,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Risø,32424960
+2,0.52,ppb,NOx'er,2019-01-01 03:30:00.000,Risø,32424961
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 03:30:00.000,Risø,32424962
+2,33.24,ppb,Ozon,2019-01-01 03:30:00.000,Risø,32424963
+2,2.16,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Århus gade (3),32424967
+2,3.44,ppb,NOx'er,2019-01-01 03:30:00.000,Århus gade (3),32424968
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 03:30:00.000,Århus gade (3),32424969
+2,6.18,ppb,Nitrogenmonooxid,2019-01-01 02:30:00.000,Jagtvej - Skur,32424970
+2,10.64,ppb,NOx'er,2019-01-01 02:30:00.000,Jagtvej - Skur,32424971
+2,5.47,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Jagtvej - Skur,32424972
+2,9.25,ppb,NOx'er,2019-01-01 03:00:00.000,Jagtvej - Skur,32424973
+2,-0.61,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Aalborg Tag ny,32424974
+2,0.43,ppb,NOx'er,2019-01-01 03:00:00.000,Aalborg Tag ny,32424975
+2,42.55,ppb,Ozon,2019-01-01 03:00:00.000,Aalborg Tag ny,32424976
+2,-0.34,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Aalborg Tag ny,32424977
+2,0.44,ppb,NOx'er,2019-01-01 03:30:00.000,Aalborg Tag ny,32424978
+2,41.84,ppb,Ozon,2019-01-01 03:30:00.000,Aalborg Tag ny,32424979
+2,-0.09,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Føllesbjerg,32424983
+2,0.86,ppb,NOx'er,2019-01-01 03:30:00.000,Føllesbjerg,32424984
+2,32.76,ppb,Ozon,2019-01-01 03:30:00.000,Føllesbjerg,32424985
+2,1.68,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,Odense Gade Grønløkkevej 20A,32424986
+2,2.22,ppb,NOx'er,2019-01-01 03:00:00.000,Odense Gade Grønløkkevej 20A,32424987
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 03:00:00.000,Odense Gade Grønløkkevej 20A,32424988
+2,1.98,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Odense Gade Grønløkkevej 20A,32424989
+2,2.75,ppb,NOx'er,2019-01-01 03:30:00.000,Odense Gade Grønløkkevej 20A,32424990
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 03:30:00.000,Odense Gade Grønløkkevej 20A,32424991
+2,5.24,ppb,Nitrogenmonooxid,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424992
+2,10.76,ppb,NOx'er,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424993
+5,0.17,ppm,Carbonmonooxid,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424994
+2,28.57,ppb,Ozon,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424995
+2,0.12,ppb,Svovldioxid,2019-01-01 03:00:00.000,H.C. Andersen Boulevard - Skur,32424996
+2,5.60,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32424997
+2,9.30,ppb,NOx'er,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32424998
+5,0.18,ppm,Carbonmonooxid,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32424999
+2,28.20,ppb,Ozon,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32425000
+2,0.07,ppb,Svovldioxid,2019-01-01 03:30:00.000,H.C. Andersen Boulevard - Skur,32425001
+20,8.40,µg/m3,PM10,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425002
+20,9.40,µg/m3,PM10,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425003
+20,8.60,µg/m3,PM10,2019-01-01 04:00:00.000,Risø,32425004
+20,7.40,µg/m3,PM10,2019-01-01 04:30:00.000,Risø,32425005
+20,0.60,µg/m3,PM25,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425006
+20,5.30,µg/m3,PM25,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425007
+2,2.16,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,H.C.Ørsted Inst.,32425008
+2,4.48,ppb,NOx'er,2019-01-01 03:30:00.000,H.C.Ørsted Inst.,32425009
+5,0.09,ppm,Carbonmonooxid,2019-01-01 03:30:00.000,H.C.Ørsted Inst.,32425010
+2,32.92,ppb,Ozon,2019-01-01 03:30:00.000,H.C.Ørsted Inst.,32425011
+2,2.10,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,H.C.Ørsted Inst.,32425012
+2,4.25,ppb,NOx'er,2019-01-01 04:00:00.000,H.C.Ørsted Inst.,32425013
+5,0.11,ppm,Carbonmonooxid,2019-01-01 04:00:00.000,H.C.Ørsted Inst.,32425014
+2,33.15,ppb,Ozon,2019-01-01 04:00:00.000,H.C.Ørsted Inst.,32425015
+2,1.85,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,H.C.Ørsted Inst.,32425016
+2,3.35,ppb,NOx'er,2019-01-01 04:30:00.000,H.C.Ørsted Inst.,32425017
+5,0.08,ppm,Carbonmonooxid,2019-01-01 04:30:00.000,H.C.Ørsted Inst.,32425018
+2,37.41,ppb,Ozon,2019-01-01 04:30:00.000,H.C.Ørsted Inst.,32425019
+2,1.80,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Aarhus Botanisk,32425020
+2,2.35,ppb,NOx'er,2019-01-01 04:00:00.000,Aarhus Botanisk,32425021
+2,43.28,ppb,Ozon,2019-01-01 04:00:00.000,Aarhus Botanisk,32425022
+2,1.54,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Aarhus Botanisk,32425023
+2,2.20,ppb,NOx'er,2019-01-01 04:30:00.000,Aarhus Botanisk,32425024
+2,42.32,ppb,Ozon,2019-01-01 04:30:00.000,Aarhus Botanisk,32425025
+2,0.48,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Anholt - Radar stationen,32425026
+2,1.01,ppb,NOx'er,2019-01-01 04:00:00.000,Anholt - Radar stationen,32425027
+2,0.33,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Anholt - Radar stationen,32425028
+2,0.82,ppb,NOx'er,2019-01-01 04:30:00.000,Anholt - Radar stationen,32425029
+2,6.27,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Hvidovre Fjeldstedvej,32425032
+2,7.26,ppb,NOx'er,2019-01-01 04:30:00.000,Hvidovre Fjeldstedvej,32425033
+2,-0.19,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Risø,32425034
+2,0.44,ppb,NOx'er,2019-01-01 04:00:00.000,Risø,32425035
+5,-0.15,ppm,Carbonmonooxid,2019-01-01 04:00:00.000,Risø,32425036
+2,33.90,ppb,Ozon,2019-01-01 04:00:00.000,Risø,32425037
+2,-0.26,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Risø,32425038
+2,0.08,ppb,NOx'er,2019-01-01 04:30:00.000,Risø,32425039
+5,-0.15,ppm,Carbonmonooxid,2019-01-01 04:30:00.000,Risø,32425040
+2,40.95,ppb,Ozon,2019-01-01 04:30:00.000,Risø,32425041
+2,2.02,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Århus gade (3),32425042
+2,2.98,ppb,NOx'er,2019-01-01 04:00:00.000,Århus gade (3),32425043
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 04:00:00.000,Århus gade (3),32425044
+2,1.99,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Århus gade (3),32425045
+2,3.10,ppb,NOx'er,2019-01-01 04:30:00.000,Århus gade (3),32425046
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 04:30:00.000,Århus gade (3),32425047
+2,4.91,ppb,Nitrogenmonooxid,2019-01-01 03:30:00.000,Jagtvej - Skur,32425048
+2,8.18,ppb,NOx'er,2019-01-01 03:30:00.000,Jagtvej - Skur,32425049
+2,3.77,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Jagtvej - Skur,32425050
+2,6.26,ppb,NOx'er,2019-01-01 04:00:00.000,Jagtvej - Skur,32425051
+2,-0.40,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Aalborg Tag ny,32425052
+2,0.59,ppb,NOx'er,2019-01-01 04:00:00.000,Aalborg Tag ny,32425053
+2,40.23,ppb,Ozon,2019-01-01 04:00:00.000,Aalborg Tag ny,32425054
+2,-0.14,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Aalborg Tag ny,32425055
+2,0.39,ppb,NOx'er,2019-01-01 04:30:00.000,Aalborg Tag ny,32425056
+2,40.49,ppb,Ozon,2019-01-01 04:30:00.000,Aalborg Tag ny,32425057
+2,-0.01,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Føllesbjerg,32425058
+2,0.79,ppb,NOx'er,2019-01-01 04:00:00.000,Føllesbjerg,32425059
+2,32.58,ppb,Ozon,2019-01-01 04:00:00.000,Føllesbjerg,32425060
+2,0.04,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Føllesbjerg,32425061
+2,0.88,ppb,NOx'er,2019-01-01 04:30:00.000,Føllesbjerg,32425062
+2,32.24,ppb,Ozon,2019-01-01 04:30:00.000,Føllesbjerg,32425063
+2,1.85,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Odense Gade Grønløkkevej 20A,32425064
+2,2.00,ppb,NOx'er,2019-01-01 04:00:00.000,Odense Gade Grønløkkevej 20A,32425065
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 04:00:00.000,Odense Gade Grønløkkevej 20A,32425066
+2,1.77,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Odense Gade Grønløkkevej 20A,32425067
+2,2.01,ppb,NOx'er,2019-01-01 04:30:00.000,Odense Gade Grønløkkevej 20A,32425068
+5,-0.04,ppm,Carbonmonooxid,2019-01-01 04:30:00.000,Odense Gade Grønløkkevej 20A,32425069
+2,3.55,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425070
+2,7.38,ppb,NOx'er,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425071
+5,0.17,ppm,Carbonmonooxid,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425072
+2,29.21,ppb,Ozon,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425073
+2,0.01,ppb,Svovldioxid,2019-01-01 04:00:00.000,H.C. Andersen Boulevard - Skur,32425074
+2,5.35,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425075
+2,9.13,ppb,NOx'er,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425076
+5,0.17,ppm,Carbonmonooxid,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425077
+2,31.08,ppb,Ozon,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425078
+2,0.04,ppb,Svovldioxid,2019-01-01 04:30:00.000,H.C. Andersen Boulevard - Skur,32425079
+20,24.40,µg/m3,PM10,2019-01-01 05:00:00.000,H.C. Andersen Boulevard - Skur,32425080
+20,45.90,µg/m3,PM10,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425081
+20,15.70,µg/m3,PM10,2019-01-01 05:00:00.000,Risø,32425082
+20,22.80,µg/m3,PM10,2019-01-01 05:30:00.000,Risø,32425083
+20,1.50,µg/m3,PM25,2019-01-01 05:00:00.000,H.C. Andersen Boulevard - Skur,32425084
+20,3.10,µg/m3,PM25,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425085
+2,1.99,ppb,Nitrogenmonooxid,2019-01-01 05:00:00.000,H.C.Ørsted Inst.,32425086
+2,3.23,ppb,NOx'er,2019-01-01 05:00:00.000,H.C.Ørsted Inst.,32425087
+5,0.09,ppm,Carbonmonooxid,2019-01-01 05:00:00.000,H.C.Ørsted Inst.,32425088
+2,41.82,ppb,Ozon,2019-01-01 05:00:00.000,H.C.Ørsted Inst.,32425089
+2,1.90,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,H.C.Ørsted Inst.,32425090
+2,3.36,ppb,NOx'er,2019-01-01 05:30:00.000,H.C.Ørsted Inst.,32425091
+5,0.10,ppm,Carbonmonooxid,2019-01-01 05:30:00.000,H.C.Ørsted Inst.,32425092
+2,42.20,ppb,Ozon,2019-01-01 05:30:00.000,H.C.Ørsted Inst.,32425093
+2,1.63,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Aarhus Botanisk,32425097
+2,2.31,ppb,NOx'er,2019-01-01 05:30:00.000,Aarhus Botanisk,32425098
+2,40.41,ppb,Ozon,2019-01-01 05:30:00.000,Aarhus Botanisk,32425099
+2,3.94,ppb,Nitrogenmonooxid,2019-01-01 04:00:00.000,Ulborg,32425100
+2,4.90,ppb,NOx'er,2019-01-01 04:00:00.000,Ulborg,32425101
+2,38.13,ppb,Ozon,2019-01-01 04:00:00.000,Ulborg,32425102
+2,3.69,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Ulborg,32425103
+2,4.66,ppb,NOx'er,2019-01-01 04:30:00.000,Ulborg,32425104
+2,37.45,ppb,Ozon,2019-01-01 04:30:00.000,Ulborg,32425105
+2,3.79,ppb,Nitrogenmonooxid,2019-01-01 05:00:00.000,Ulborg,32425106
+2,4.60,ppb,NOx'er,2019-01-01 05:00:00.000,Ulborg,32425107
+2,37.36,ppb,Ozon,2019-01-01 05:00:00.000,Ulborg,32425108
+2,3.83,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Ulborg,32425109
+2,4.79,ppb,NOx'er,2019-01-01 05:30:00.000,Ulborg,32425110
+2,37.30,ppb,Ozon,2019-01-01 05:30:00.000,Ulborg,32425111
+2,0.47,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Anholt - Radar stationen,32425114
+2,0.80,ppb,NOx'er,2019-01-01 05:30:00.000,Anholt - Radar stationen,32425115
+2,6.11,ppb,Nitrogenmonooxid,2019-01-01 05:00:00.000,Hvidovre Fjeldstedvej,32425116
+2,6.83,ppb,NOx'er,2019-01-01 05:00:00.000,Hvidovre Fjeldstedvej,32425117
+2,6.12,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Hvidovre Fjeldstedvej,32425118
+2,6.96,ppb,NOx'er,2019-01-01 05:30:00.000,Hvidovre Fjeldstedvej,32425119
+2,-0.21,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Risø,32425124
+2,0.13,ppb,NOx'er,2019-01-01 05:30:00.000,Risø,32425125
+5,-0.15,ppm,Carbonmonooxid,2019-01-01 05:30:00.000,Risø,32425126
+2,42.42,ppb,Ozon,2019-01-01 05:30:00.000,Risø,32425127
+2,2.27,ppb,Nitrogenmonooxid,2019-01-01 05:00:00.000,Århus gade (3),32425128
+2,3.05,ppb,NOx'er,2019-01-01 05:00:00.000,Århus gade (3),32425129
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 05:00:00.000,Århus gade (3),32425130
+2,2.23,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Århus gade (3),32425131
+2,3.62,ppb,NOx'er,2019-01-01 05:30:00.000,Århus gade (3),32425132
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 05:30:00.000,Århus gade (3),32425133
+2,2.54,ppb,Nitrogenmonooxid,2019-01-01 04:30:00.000,Jagtvej - Skur,32425134
+2,3.65,ppb,NOx'er,2019-01-01 04:30:00.000,Jagtvej - Skur,32425135
+2,-0.70,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Aalborg Tag ny,32425141
+2,-0.18,ppb,NOx'er,2019-01-01 05:30:00.000,Aalborg Tag ny,32425142
+2,41.22,ppb,Ozon,2019-01-01 05:30:00.000,Aalborg Tag ny,32425143
+2,-0.09,ppb,Nitrogenmonooxid,2019-01-01 05:00:00.000,Føllesbjerg,32425144
+2,0.53,ppb,NOx'er,2019-01-01 05:00:00.000,Føllesbjerg,32425145
+2,33.89,ppb,Ozon,2019-01-01 05:00:00.000,Føllesbjerg,32425146
+2,-0.01,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Føllesbjerg,32425147
+2,0.42,ppb,NOx'er,2019-01-01 05:30:00.000,Føllesbjerg,32425148
+2,39.83,ppb,Ozon,2019-01-01 05:30:00.000,Føllesbjerg,32425149
+2,1.93,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Odense Gade Grønløkkevej 20A,32425153
+2,2.27,ppb,NOx'er,2019-01-01 05:30:00.000,Odense Gade Grønløkkevej 20A,32425154
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 05:30:00.000,Odense Gade Grønløkkevej 20A,32425155
+2,4.68,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425161
+2,7.09,ppb,NOx'er,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425162
+5,0.17,ppm,Carbonmonooxid,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425163
+2,38.22,ppb,Ozon,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425164
+2,0.22,ppb,Svovldioxid,2019-01-01 05:30:00.000,H.C. Andersen Boulevard - Skur,32425165
+20,15.60,µg/m3,PM10,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425166
+20,23.20,µg/m3,PM10,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425167
+20,23.00,µg/m3,PM10,2019-01-01 06:00:00.000,Risø,32425168
+20,25.40,µg/m3,PM10,2019-01-01 06:30:00.000,Risø,32425169
+20,5.20,µg/m3,PM25,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425170
+20,7.60,µg/m3,PM25,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425171
+2,2.21,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,H.C.Ørsted Inst.,32425172
+2,3.28,ppb,NOx'er,2019-01-01 06:00:00.000,H.C.Ørsted Inst.,32425173
+5,0.08,ppm,Carbonmonooxid,2019-01-01 06:00:00.000,H.C.Ørsted Inst.,32425174
+2,41.68,ppb,Ozon,2019-01-01 06:00:00.000,H.C.Ørsted Inst.,32425175
+2,2.14,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,H.C.Ørsted Inst.,32425176
+2,3.19,ppb,NOx'er,2019-01-01 06:30:00.000,H.C.Ørsted Inst.,32425177
+5,0.10,ppm,Carbonmonooxid,2019-01-01 06:30:00.000,H.C.Ørsted Inst.,32425178
+2,40.84,ppb,Ozon,2019-01-01 06:30:00.000,H.C.Ørsted Inst.,32425179
+2,1.73,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Aarhus Botanisk,32425180
+2,2.42,ppb,NOx'er,2019-01-01 06:00:00.000,Aarhus Botanisk,32425181
+2,40.77,ppb,Ozon,2019-01-01 06:00:00.000,Aarhus Botanisk,32425182
+2,1.66,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Aarhus Botanisk,32425183
+2,2.26,ppb,NOx'er,2019-01-01 06:30:00.000,Aarhus Botanisk,32425184
+2,41.21,ppb,Ozon,2019-01-01 06:30:00.000,Aarhus Botanisk,32425185
+2,3.47,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Ulborg,32425186
+2,4.12,ppb,NOx'er,2019-01-01 06:00:00.000,Ulborg,32425187
+2,38.22,ppb,Ozon,2019-01-01 06:00:00.000,Ulborg,32425188
+2,3.94,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Ulborg,32425189
+2,4.68,ppb,NOx'er,2019-01-01 06:30:00.000,Ulborg,32425190
+2,38.45,ppb,Ozon,2019-01-01 06:30:00.000,Ulborg,32425191
+2,0.36,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Anholt - Radar stationen,32425192
+2,0.75,ppb,NOx'er,2019-01-01 06:00:00.000,Anholt - Radar stationen,32425193
+2,0.42,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Anholt - Radar stationen,32425194
+2,0.67,ppb,NOx'er,2019-01-01 06:30:00.000,Anholt - Radar stationen,32425195
+2,6.24,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Hvidovre Fjeldstedvej,32425196
+2,6.97,ppb,NOx'er,2019-01-01 06:00:00.000,Hvidovre Fjeldstedvej,32425197
+2,6.07,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Hvidovre Fjeldstedvej,32425198
+2,6.83,ppb,NOx'er,2019-01-01 06:30:00.000,Hvidovre Fjeldstedvej,32425199
+2,-0.27,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Risø,32425200
+2,0.05,ppb,NOx'er,2019-01-01 06:00:00.000,Risø,32425201
+5,-0.15,ppm,Carbonmonooxid,2019-01-01 06:00:00.000,Risø,32425202
+2,41.49,ppb,Ozon,2019-01-01 06:00:00.000,Risø,32425203
+2,-0.27,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Risø,32425204
+2,0.03,ppb,NOx'er,2019-01-01 06:30:00.000,Risø,32425205
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 06:30:00.000,Risø,32425206
+2,39.98,ppb,Ozon,2019-01-01 06:30:00.000,Risø,32425207
+2,2.25,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Århus gade (3),32425208
+2,3.66,ppb,NOx'er,2019-01-01 06:00:00.000,Århus gade (3),32425209
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 06:00:00.000,Århus gade (3),32425210
+2,2.42,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Århus gade (3),32425211
+2,6.27,ppb,NOx'er,2019-01-01 06:30:00.000,Århus gade (3),32425212
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 06:30:00.000,Århus gade (3),32425213
+2,2.76,ppb,Nitrogenmonooxid,2019-01-01 05:30:00.000,Jagtvej - Skur,32425214
+2,4.62,ppb,NOx'er,2019-01-01 05:30:00.000,Jagtvej - Skur,32425215
+2,2.33,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Jagtvej - Skur,32425216
+2,3.44,ppb,NOx'er,2019-01-01 06:00:00.000,Jagtvej - Skur,32425217
+2,-0.33,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Aalborg Tag ny,32425218
+2,0.11,ppb,NOx'er,2019-01-01 06:00:00.000,Aalborg Tag ny,32425219
+2,41.26,ppb,Ozon,2019-01-01 06:00:00.000,Aalborg Tag ny,32425220
+2,-0.28,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Aalborg Tag ny,32425221
+2,0.26,ppb,NOx'er,2019-01-01 06:30:00.000,Aalborg Tag ny,32425222
+2,40.97,ppb,Ozon,2019-01-01 06:30:00.000,Aalborg Tag ny,32425223
+2,0.01,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Føllesbjerg,32425224
+2,0.55,ppb,NOx'er,2019-01-01 06:00:00.000,Føllesbjerg,32425225
+2,41.16,ppb,Ozon,2019-01-01 06:00:00.000,Føllesbjerg,32425226
+2,-0.08,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Føllesbjerg,32425227
+2,0.42,ppb,NOx'er,2019-01-01 06:30:00.000,Føllesbjerg,32425228
+2,41.05,ppb,Ozon,2019-01-01 06:30:00.000,Føllesbjerg,32425229
+2,1.55,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,Odense Gade Grønløkkevej 20A,32425230
+2,1.73,ppb,NOx'er,2019-01-01 06:00:00.000,Odense Gade Grønløkkevej 20A,32425231
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 06:00:00.000,Odense Gade Grønløkkevej 20A,32425232
+2,1.58,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Odense Gade Grønløkkevej 20A,32425233
+2,1.56,ppb,NOx'er,2019-01-01 06:30:00.000,Odense Gade Grønløkkevej 20A,32425234
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 06:30:00.000,Odense Gade Grønløkkevej 20A,32425235
+2,2.67,ppb,Nitrogenmonooxid,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425236
+2,4.40,ppb,NOx'er,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425237
+5,0.15,ppm,Carbonmonooxid,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425238
+2,38.55,ppb,Ozon,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425239
+2,0.13,ppb,Svovldioxid,2019-01-01 06:00:00.000,H.C. Andersen Boulevard - Skur,32425240
+2,3.10,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425241
+2,5.39,ppb,NOx'er,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425242
+5,0.15,ppm,Carbonmonooxid,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425243
+2,37.13,ppb,Ozon,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425244
+2,-0.07,ppb,Svovldioxid,2019-01-01 06:30:00.000,H.C. Andersen Boulevard - Skur,32425245
+20,36.00,µg/m3,PM10,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425246
+20,-9.50,µg/m3,PM10,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425247
+20,18.90,µg/m3,PM10,2019-01-01 07:00:00.000,Risø,32425248
+20,17.90,µg/m3,PM10,2019-01-01 07:30:00.000,Risø,32425249
+20,4.30,µg/m3,PM25,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425250
+20,6.80,µg/m3,PM25,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425251
+2,1.89,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,H.C.Ørsted Inst.,32425252
+2,3.01,ppb,NOx'er,2019-01-01 07:00:00.000,H.C.Ørsted Inst.,32425253
+5,0.10,ppm,Carbonmonooxid,2019-01-01 07:00:00.000,H.C.Ørsted Inst.,32425254
+2,39.98,ppb,Ozon,2019-01-01 07:00:00.000,H.C.Ørsted Inst.,32425255
+2,1.97,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,H.C.Ørsted Inst.,32425256
+2,3.08,ppb,NOx'er,2019-01-01 07:30:00.000,H.C.Ørsted Inst.,32425257
+5,0.08,ppm,Carbonmonooxid,2019-01-01 07:30:00.000,H.C.Ørsted Inst.,32425258
+2,39.46,ppb,Ozon,2019-01-01 07:30:00.000,H.C.Ørsted Inst.,32425259
+2,1.54,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Aarhus Botanisk,32425260
+2,2.13,ppb,NOx'er,2019-01-01 07:00:00.000,Aarhus Botanisk,32425261
+2,41.41,ppb,Ozon,2019-01-01 07:00:00.000,Aarhus Botanisk,32425262
+2,1.52,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Aarhus Botanisk,32425263
+2,2.28,ppb,NOx'er,2019-01-01 07:30:00.000,Aarhus Botanisk,32425264
+2,40.87,ppb,Ozon,2019-01-01 07:30:00.000,Aarhus Botanisk,32425265
+2,3.81,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Ulborg,32425266
+2,4.54,ppb,NOx'er,2019-01-01 07:00:00.000,Ulborg,32425267
+2,38.46,ppb,Ozon,2019-01-01 07:00:00.000,Ulborg,32425268
+2,4.02,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Ulborg,32425269
+2,4.76,ppb,NOx'er,2019-01-01 07:30:00.000,Ulborg,32425270
+2,38.28,ppb,Ozon,2019-01-01 07:30:00.000,Ulborg,32425271
+2,0.47,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Anholt - Radar stationen,32425272
+2,0.71,ppb,NOx'er,2019-01-01 07:00:00.000,Anholt - Radar stationen,32425273
+2,0.55,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Anholt - Radar stationen,32425274
+2,0.88,ppb,NOx'er,2019-01-01 07:30:00.000,Anholt - Radar stationen,32425275
+2,6.21,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Hvidovre Fjeldstedvej,32425276
+2,6.87,ppb,NOx'er,2019-01-01 07:00:00.000,Hvidovre Fjeldstedvej,32425277
+2,6.24,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Hvidovre Fjeldstedvej,32425278
+2,6.80,ppb,NOx'er,2019-01-01 07:30:00.000,Hvidovre Fjeldstedvej,32425279
+2,-0.19,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Risø,32425280
+2,0.09,ppb,NOx'er,2019-01-01 07:00:00.000,Risø,32425281
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 07:00:00.000,Risø,32425282
+2,39.70,ppb,Ozon,2019-01-01 07:00:00.000,Risø,32425283
+2,-0.30,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Risø,32425284
+2,0.00,ppb,NOx'er,2019-01-01 07:30:00.000,Risø,32425285
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 07:30:00.000,Risø,32425286
+2,39.65,ppb,Ozon,2019-01-01 07:30:00.000,Risø,32425287
+2,1.79,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Århus gade (3),32425288
+2,2.32,ppb,NOx'er,2019-01-01 07:00:00.000,Århus gade (3),32425289
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 07:00:00.000,Århus gade (3),32425290
+2,2.79,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Århus gade (3),32425291
+2,3.29,ppb,NOx'er,2019-01-01 07:30:00.000,Århus gade (3),32425292
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 07:30:00.000,Århus gade (3),32425293
+2,2.55,ppb,Nitrogenmonooxid,2019-01-01 06:30:00.000,Jagtvej - Skur,32425294
+2,3.37,ppb,NOx'er,2019-01-01 06:30:00.000,Jagtvej - Skur,32425295
+2,2.42,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Jagtvej - Skur,32425296
+2,3.26,ppb,NOx'er,2019-01-01 07:00:00.000,Jagtvej - Skur,32425297
+2,-0.31,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Aalborg Tag ny,32425298
+2,0.06,ppb,NOx'er,2019-01-01 07:00:00.000,Aalborg Tag ny,32425299
+2,41.21,ppb,Ozon,2019-01-01 07:00:00.000,Aalborg Tag ny,32425300
+2,-0.13,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Aalborg Tag ny,32425301
+2,1.00,ppb,NOx'er,2019-01-01 07:30:00.000,Aalborg Tag ny,32425302
+2,41.01,ppb,Ozon,2019-01-01 07:30:00.000,Aalborg Tag ny,32425303
+2,0.01,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Føllesbjerg,32425400
+2,0.36,ppb,NOx'er,2019-01-01 07:00:00.000,Føllesbjerg,32425401
+2,40.13,ppb,Ozon,2019-01-01 07:00:00.000,Føllesbjerg,32425402
+2,0.01,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Føllesbjerg,32425403
+2,0.47,ppb,NOx'er,2019-01-01 07:30:00.000,Føllesbjerg,32425404
+2,38.97,ppb,Ozon,2019-01-01 07:30:00.000,Føllesbjerg,32425405
+2,1.70,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,Odense Gade Grønløkkevej 20A,32425406
+2,1.82,ppb,NOx'er,2019-01-01 07:00:00.000,Odense Gade Grønløkkevej 20A,32425407
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 07:00:00.000,Odense Gade Grønløkkevej 20A,32425408
+2,1.94,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Odense Gade Grønløkkevej 20A,32425409
+2,2.18,ppb,NOx'er,2019-01-01 07:30:00.000,Odense Gade Grønløkkevej 20A,32425410
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 07:30:00.000,Odense Gade Grønløkkevej 20A,32425411
+2,2.78,ppb,Nitrogenmonooxid,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425412
+2,4.35,ppb,NOx'er,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425413
+5,0.16,ppm,Carbonmonooxid,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425414
+2,37.00,ppb,Ozon,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425415
+2,0.08,ppb,Svovldioxid,2019-01-01 07:00:00.000,H.C. Andersen Boulevard - Skur,32425416
+2,3.12,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425417
+2,4.57,ppb,NOx'er,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425418
+5,0.16,ppm,Carbonmonooxid,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425419
+2,36.05,ppb,Ozon,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425420
+2,0.05,ppb,Svovldioxid,2019-01-01 07:30:00.000,H.C. Andersen Boulevard - Skur,32425421
+20,21.20,µg/m3,PM10,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425638
+20,18.00,µg/m3,PM10,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425639
+20,17.00,µg/m3,PM10,2019-01-01 08:00:00.000,Risø,32425640
+20,20.30,µg/m3,PM10,2019-01-01 08:30:00.000,Risø,32425641
+20,4.90,µg/m3,PM25,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425642
+20,2.50,µg/m3,PM25,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425643
+2,2.00,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,H.C.Ørsted Inst.,32425644
+2,3.17,ppb,NOx'er,2019-01-01 08:00:00.000,H.C.Ørsted Inst.,32425645
+5,0.10,ppm,Carbonmonooxid,2019-01-01 08:00:00.000,H.C.Ørsted Inst.,32425646
+2,39.70,ppb,Ozon,2019-01-01 08:00:00.000,H.C.Ørsted Inst.,32425647
+2,2.21,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,H.C.Ørsted Inst.,32425648
+2,3.45,ppb,NOx'er,2019-01-01 08:30:00.000,H.C.Ørsted Inst.,32425649
+5,0.08,ppm,Carbonmonooxid,2019-01-01 08:30:00.000,H.C.Ørsted Inst.,32425650
+2,39.79,ppb,Ozon,2019-01-01 08:30:00.000,H.C.Ørsted Inst.,32425651
+2,1.96,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Aarhus Botanisk,32425652
+2,2.59,ppb,NOx'er,2019-01-01 08:00:00.000,Aarhus Botanisk,32425653
+2,40.92,ppb,Ozon,2019-01-01 08:00:00.000,Aarhus Botanisk,32425654
+2,1.81,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Aarhus Botanisk,32425655
+2,2.58,ppb,NOx'er,2019-01-01 08:30:00.000,Aarhus Botanisk,32425656
+2,41.14,ppb,Ozon,2019-01-01 08:30:00.000,Aarhus Botanisk,32425657
+2,4.06,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Ulborg,32425658
+2,4.69,ppb,NOx'er,2019-01-01 08:00:00.000,Ulborg,32425659
+2,38.48,ppb,Ozon,2019-01-01 08:00:00.000,Ulborg,32425660
+2,3.57,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Ulborg,32425661
+2,4.30,ppb,NOx'er,2019-01-01 08:30:00.000,Ulborg,32425662
+2,38.52,ppb,Ozon,2019-01-01 08:30:00.000,Ulborg,32425663
+2,0.35,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Anholt - Radar stationen,32425664
+2,0.77,ppb,NOx'er,2019-01-01 08:00:00.000,Anholt - Radar stationen,32425665
+2,0.46,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Anholt - Radar stationen,32425666
+2,0.86,ppb,NOx'er,2019-01-01 08:30:00.000,Anholt - Radar stationen,32425667
+2,6.36,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Hvidovre Fjeldstedvej,32425668
+2,7.13,ppb,NOx'er,2019-01-01 08:00:00.000,Hvidovre Fjeldstedvej,32425669
+2,6.18,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Hvidovre Fjeldstedvej,32425670
+2,7.12,ppb,NOx'er,2019-01-01 08:30:00.000,Hvidovre Fjeldstedvej,32425671
+2,-0.12,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Risø,32425672
+2,0.29,ppb,NOx'er,2019-01-01 08:00:00.000,Risø,32425673
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 08:00:00.000,Risø,32425674
+2,39.78,ppb,Ozon,2019-01-01 08:00:00.000,Risø,32425675
+2,-0.02,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Risø,32425676
+2,0.47,ppb,NOx'er,2019-01-01 08:30:00.000,Risø,32425677
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 08:30:00.000,Risø,32425678
+2,39.62,ppb,Ozon,2019-01-01 08:30:00.000,Risø,32425679
+2,1.84,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Århus gade (3),32425680
+2,2.83,ppb,NOx'er,2019-01-01 08:00:00.000,Århus gade (3),32425681
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 08:00:00.000,Århus gade (3),32425682
+2,1.72,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Århus gade (3),32425683
+2,2.35,ppb,NOx'er,2019-01-01 08:30:00.000,Århus gade (3),32425684
+5,-0.04,ppm,Carbonmonooxid,2019-01-01 08:30:00.000,Århus gade (3),32425685
+2,2.17,ppb,Nitrogenmonooxid,2019-01-01 07:30:00.000,Jagtvej - Skur,32425686
+2,3.13,ppb,NOx'er,2019-01-01 07:30:00.000,Jagtvej - Skur,32425687
+2,2.09,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Jagtvej - Skur,32425688
+2,3.11,ppb,NOx'er,2019-01-01 08:00:00.000,Jagtvej - Skur,32425689
+2,-0.07,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Aalborg Tag ny,32425690
+2,0.68,ppb,NOx'er,2019-01-01 08:00:00.000,Aalborg Tag ny,32425691
+2,41.50,ppb,Ozon,2019-01-01 08:00:00.000,Aalborg Tag ny,32425692
+2,0.02,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Aalborg Tag ny,32425693
+2,0.72,ppb,NOx'er,2019-01-01 08:30:00.000,Aalborg Tag ny,32425694
+2,41.71,ppb,Ozon,2019-01-01 08:30:00.000,Aalborg Tag ny,32425695
+2,0.02,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Føllesbjerg,32425696
+2,0.41,ppb,NOx'er,2019-01-01 08:00:00.000,Føllesbjerg,32425697
+2,38.27,ppb,Ozon,2019-01-01 08:00:00.000,Føllesbjerg,32425698
+2,0.06,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Føllesbjerg,32425699
+2,0.41,ppb,NOx'er,2019-01-01 08:30:00.000,Føllesbjerg,32425700
+2,38.21,ppb,Ozon,2019-01-01 08:30:00.000,Føllesbjerg,32425701
+2,1.87,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,Odense Gade Grønløkkevej 20A,32425702
+2,2.20,ppb,NOx'er,2019-01-01 08:00:00.000,Odense Gade Grønløkkevej 20A,32425703
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 08:00:00.000,Odense Gade Grønløkkevej 20A,32425704
+2,1.77,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Odense Gade Grønløkkevej 20A,32425705
+2,2.26,ppb,NOx'er,2019-01-01 08:30:00.000,Odense Gade Grønløkkevej 20A,32425706
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 08:30:00.000,Odense Gade Grønløkkevej 20A,32425707
+2,3.55,ppb,Nitrogenmonooxid,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425708
+2,5.30,ppb,NOx'er,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425709
+5,0.16,ppm,Carbonmonooxid,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425710
+2,35.78,ppb,Ozon,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425711
+2,-0.06,ppb,Svovldioxid,2019-01-01 08:00:00.000,H.C. Andersen Boulevard - Skur,32425712
+2,3.26,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425713
+2,5.44,ppb,NOx'er,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425714
+5,0.16,ppm,Carbonmonooxid,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425715
+2,36.65,ppb,Ozon,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425716
+2,0.07,ppb,Svovldioxid,2019-01-01 08:30:00.000,H.C. Andersen Boulevard - Skur,32425717
+20,30.30,µg/m3,PM10,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425718
+20,41.60,µg/m3,PM10,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425719
+20,25.30,µg/m3,PM10,2019-01-01 09:00:00.000,Risø,32425720
+20,28.90,µg/m3,PM10,2019-01-01 09:30:00.000,Risø,32425721
+20,6.80,µg/m3,PM25,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425722
+20,8.60,µg/m3,PM25,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425723
+2,1.82,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,H.C.Ørsted Inst.,32425724
+2,3.12,ppb,NOx'er,2019-01-01 09:00:00.000,H.C.Ørsted Inst.,32425725
+5,0.09,ppm,Carbonmonooxid,2019-01-01 09:00:00.000,H.C.Ørsted Inst.,32425726
+2,39.81,ppb,Ozon,2019-01-01 09:00:00.000,H.C.Ørsted Inst.,32425727
+2,2.09,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,H.C.Ørsted Inst.,32425728
+2,3.31,ppb,NOx'er,2019-01-01 09:30:00.000,H.C.Ørsted Inst.,32425729
+5,0.11,ppm,Carbonmonooxid,2019-01-01 09:30:00.000,H.C.Ørsted Inst.,32425730
+2,39.94,ppb,Ozon,2019-01-01 09:30:00.000,H.C.Ørsted Inst.,32425731
+2,1.73,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Aarhus Botanisk,32425732
+2,2.65,ppb,NOx'er,2019-01-01 09:00:00.000,Aarhus Botanisk,32425733
+2,40.93,ppb,Ozon,2019-01-01 09:00:00.000,Aarhus Botanisk,32425734
+2,1.82,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Aarhus Botanisk,32425735
+2,2.71,ppb,NOx'er,2019-01-01 09:30:00.000,Aarhus Botanisk,32425736
+2,41.09,ppb,Ozon,2019-01-01 09:30:00.000,Aarhus Botanisk,32425737
+2,3.81,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Ulborg,32425738
+2,4.44,ppb,NOx'er,2019-01-01 09:00:00.000,Ulborg,32425739
+2,38.44,ppb,Ozon,2019-01-01 09:00:00.000,Ulborg,32425740
+2,4.00,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Ulborg,32425741
+2,4.66,ppb,NOx'er,2019-01-01 09:30:00.000,Ulborg,32425742
+2,38.81,ppb,Ozon,2019-01-01 09:30:00.000,Ulborg,32425743
+2,0.39,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Anholt - Radar stationen,32425744
+2,0.86,ppb,NOx'er,2019-01-01 09:00:00.000,Anholt - Radar stationen,32425745
+2,0.42,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Anholt - Radar stationen,32425746
+2,0.80,ppb,NOx'er,2019-01-01 09:30:00.000,Anholt - Radar stationen,32425747
+2,6.31,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Hvidovre Fjeldstedvej,32425748
+2,7.05,ppb,NOx'er,2019-01-01 09:00:00.000,Hvidovre Fjeldstedvej,32425749
+2,6.33,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Hvidovre Fjeldstedvej,32425750
+2,7.29,ppb,NOx'er,2019-01-01 09:30:00.000,Hvidovre Fjeldstedvej,32425751
+2,-0.12,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Risø,32425752
+2,0.26,ppb,NOx'er,2019-01-01 09:00:00.000,Risø,32425753
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 09:00:00.000,Risø,32425754
+2,39.62,ppb,Ozon,2019-01-01 09:00:00.000,Risø,32425755
+2,-0.30,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Risø,32425756
+2,-0.02,ppb,NOx'er,2019-01-01 09:30:00.000,Risø,32425757
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 09:30:00.000,Risø,32425758
+2,39.87,ppb,Ozon,2019-01-01 09:30:00.000,Risø,32425759
+2,2.85,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Århus gade (3),32425760
+2,3.59,ppb,NOx'er,2019-01-01 09:00:00.000,Århus gade (3),32425761
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 09:00:00.000,Århus gade (3),32425762
+2,2.36,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Århus gade (3),32425763
+2,3.34,ppb,NOx'er,2019-01-01 09:30:00.000,Århus gade (3),32425764
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 09:30:00.000,Århus gade (3),32425765
+2,2.11,ppb,Nitrogenmonooxid,2019-01-01 08:30:00.000,Jagtvej - Skur,32425766
+2,3.19,ppb,NOx'er,2019-01-01 08:30:00.000,Jagtvej - Skur,32425767
+2,2.38,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Jagtvej - Skur,32425768
+2,3.15,ppb,NOx'er,2019-01-01 09:00:00.000,Jagtvej - Skur,32425769
+2,-0.01,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Aalborg Tag ny,32425770
+2,0.65,ppb,NOx'er,2019-01-01 09:00:00.000,Aalborg Tag ny,32425771
+2,41.76,ppb,Ozon,2019-01-01 09:00:00.000,Aalborg Tag ny,32425772
+2,-0.02,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Aalborg Tag ny,32425773
+2,0.70,ppb,NOx'er,2019-01-01 09:30:00.000,Aalborg Tag ny,32425774
+2,41.92,ppb,Ozon,2019-01-01 09:30:00.000,Aalborg Tag ny,32425775
+2,0.08,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Føllesbjerg,32425776
+2,0.60,ppb,NOx'er,2019-01-01 09:00:00.000,Føllesbjerg,32425777
+2,38.51,ppb,Ozon,2019-01-01 09:00:00.000,Føllesbjerg,32425778
+2,-0.01,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Føllesbjerg,32425779
+2,0.52,ppb,NOx'er,2019-01-01 09:30:00.000,Føllesbjerg,32425780
+2,38.54,ppb,Ozon,2019-01-01 09:30:00.000,Føllesbjerg,32425781
+2,2.26,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,Odense Gade Grønløkkevej 20A,32425782
+2,2.98,ppb,NOx'er,2019-01-01 09:00:00.000,Odense Gade Grønløkkevej 20A,32425783
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 09:00:00.000,Odense Gade Grønløkkevej 20A,32425784
+2,2.28,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Odense Gade Grønløkkevej 20A,32425785
+2,2.47,ppb,NOx'er,2019-01-01 09:30:00.000,Odense Gade Grønløkkevej 20A,32425786
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 09:30:00.000,Odense Gade Grønløkkevej 20A,32425787
+2,3.23,ppb,Nitrogenmonooxid,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425788
+2,5.19,ppb,NOx'er,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425789
+5,0.16,ppm,Carbonmonooxid,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425790
+2,36.34,ppb,Ozon,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425791
+2,0.06,ppb,Svovldioxid,2019-01-01 09:00:00.000,H.C. Andersen Boulevard - Skur,32425792
+2,3.14,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425793
+2,5.60,ppb,NOx'er,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425794
+5,0.17,ppm,Carbonmonooxid,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425795
+2,35.53,ppb,Ozon,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425796
+2,-0.01,ppb,Svovldioxid,2019-01-01 09:30:00.000,H.C. Andersen Boulevard - Skur,32425797
+20,72.30,µg/m3,PM10,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425798
+20,2.30,µg/m3,PM10,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425799
+20,25.60,µg/m3,PM10,2019-01-01 10:00:00.000,Risø,32425800
+20,27.60,µg/m3,PM10,2019-01-01 10:30:00.000,Risø,32425801
+20,4.70,µg/m3,PM25,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425802
+20,9.10,µg/m3,PM25,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425803
+2,1.95,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,H.C.Ørsted Inst.,32425804
+2,3.38,ppb,NOx'er,2019-01-01 10:00:00.000,H.C.Ørsted Inst.,32425805
+5,0.09,ppm,Carbonmonooxid,2019-01-01 10:00:00.000,H.C.Ørsted Inst.,32425806
+2,39.36,ppb,Ozon,2019-01-01 10:00:00.000,H.C.Ørsted Inst.,32425807
+2,2.45,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,H.C.Ørsted Inst.,32425808
+2,3.71,ppb,NOx'er,2019-01-01 10:30:00.000,H.C.Ørsted Inst.,32425809
+5,0.09,ppm,Carbonmonooxid,2019-01-01 10:30:00.000,H.C.Ørsted Inst.,32425810
+2,39.93,ppb,Ozon,2019-01-01 10:30:00.000,H.C.Ørsted Inst.,32425811
+2,1.79,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Aarhus Botanisk,32425812
+2,2.68,ppb,NOx'er,2019-01-01 10:00:00.000,Aarhus Botanisk,32425813
+2,41.17,ppb,Ozon,2019-01-01 10:00:00.000,Aarhus Botanisk,32425814
+2,1.89,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Aarhus Botanisk,32425815
+2,2.82,ppb,NOx'er,2019-01-01 10:30:00.000,Aarhus Botanisk,32425816
+2,41.26,ppb,Ozon,2019-01-01 10:30:00.000,Aarhus Botanisk,32425817
+2,3.64,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Ulborg,32425818
+2,4.35,ppb,NOx'er,2019-01-01 10:00:00.000,Ulborg,32425819
+2,39.19,ppb,Ozon,2019-01-01 10:00:00.000,Ulborg,32425820
+2,3.86,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Ulborg,32425821
+2,4.63,ppb,NOx'er,2019-01-01 10:30:00.000,Ulborg,32425822
+2,39.40,ppb,Ozon,2019-01-01 10:30:00.000,Ulborg,32425823
+2,0.50,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Anholt - Radar stationen,32425824
+2,0.97,ppb,NOx'er,2019-01-01 10:00:00.000,Anholt - Radar stationen,32425825
+2,0.29,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Anholt - Radar stationen,32425826
+2,0.71,ppb,NOx'er,2019-01-01 10:30:00.000,Anholt - Radar stationen,32425827
+2,6.26,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Hvidovre Fjeldstedvej,32425828
+2,6.97,ppb,NOx'er,2019-01-01 10:00:00.000,Hvidovre Fjeldstedvej,32425829
+2,6.27,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Hvidovre Fjeldstedvej,32425830
+2,7.04,ppb,NOx'er,2019-01-01 10:30:00.000,Hvidovre Fjeldstedvej,32425831
+2,-0.13,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Risø,32425832
+2,0.08,ppb,NOx'er,2019-01-01 10:00:00.000,Risø,32425833
+5,-0.14,ppm,Carbonmonooxid,2019-01-01 10:00:00.000,Risø,32425834
+2,40.15,ppb,Ozon,2019-01-01 10:00:00.000,Risø,32425835
+2,0.02,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Risø,32425836
+2,0.32,ppb,NOx'er,2019-01-01 10:30:00.000,Risø,32425837
+5,-0.13,ppm,Carbonmonooxid,2019-01-01 10:30:00.000,Risø,32425838
+2,40.16,ppb,Ozon,2019-01-01 10:30:00.000,Risø,32425839
+2,2.36,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Århus gade (3),32425840
+2,3.72,ppb,NOx'er,2019-01-01 10:00:00.000,Århus gade (3),32425841
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 10:00:00.000,Århus gade (3),32425842
+2,2.52,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Århus gade (3),32425843
+2,3.41,ppb,NOx'er,2019-01-01 10:30:00.000,Århus gade (3),32425844
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 10:30:00.000,Århus gade (3),32425845
+2,2.43,ppb,Nitrogenmonooxid,2019-01-01 09:30:00.000,Jagtvej - Skur,32425846
+2,3.46,ppb,NOx'er,2019-01-01 09:30:00.000,Jagtvej - Skur,32425847
+2,2.26,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Jagtvej - Skur,32425848
+2,3.41,ppb,NOx'er,2019-01-01 10:00:00.000,Jagtvej - Skur,32425849
+2,-0.31,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Aalborg Tag ny,32425850
+2,0.47,ppb,NOx'er,2019-01-01 10:00:00.000,Aalborg Tag ny,32425851
+2,41.74,ppb,Ozon,2019-01-01 10:00:00.000,Aalborg Tag ny,32425852
+2,-0.10,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Aalborg Tag ny,32425853
+2,0.56,ppb,NOx'er,2019-01-01 10:30:00.000,Aalborg Tag ny,32425854
+2,41.62,ppb,Ozon,2019-01-01 10:30:00.000,Aalborg Tag ny,32425855
+2,-0.24,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Føllesbjerg,32425856
+2,0.23,ppb,NOx'er,2019-01-01 10:00:00.000,Føllesbjerg,32425857
+2,38.95,ppb,Ozon,2019-01-01 10:00:00.000,Føllesbjerg,32425858
+2,0.20,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Føllesbjerg,32425859
+2,0.55,ppb,NOx'er,2019-01-01 10:30:00.000,Føllesbjerg,32425860
+2,39.12,ppb,Ozon,2019-01-01 10:30:00.000,Føllesbjerg,32425861
+2,2.23,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,Odense Gade Grønløkkevej 20A,32425862
+2,2.59,ppb,NOx'er,2019-01-01 10:00:00.000,Odense Gade Grønløkkevej 20A,32425863
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 10:00:00.000,Odense Gade Grønløkkevej 20A,32425864
+2,2.75,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Odense Gade Grønløkkevej 20A,32425865
+2,3.80,ppb,NOx'er,2019-01-01 10:30:00.000,Odense Gade Grønløkkevej 20A,32425866
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 10:30:00.000,Odense Gade Grønløkkevej 20A,32425867
+2,3.61,ppb,Nitrogenmonooxid,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425868
+2,6.42,ppb,NOx'er,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425869
+5,0.17,ppm,Carbonmonooxid,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425870
+2,35.47,ppb,Ozon,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425871
+2,0.08,ppb,Svovldioxid,2019-01-01 10:00:00.000,H.C. Andersen Boulevard - Skur,32425872
+2,4.15,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425873
+2,7.21,ppb,NOx'er,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425874
+5,0.16,ppm,Carbonmonooxid,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425875
+2,35.00,ppb,Ozon,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425876
+2,0.10,ppb,Svovldioxid,2019-01-01 10:30:00.000,H.C. Andersen Boulevard - Skur,32425877
+20,36.80,µg/m3,PM10,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425878
+20,66.30,µg/m3,PM10,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425879
+20,23.50,µg/m3,PM10,2019-01-01 11:00:00.000,Risø,32425880
+20,29.80,µg/m3,PM10,2019-01-01 11:30:00.000,Risø,32425881
+20,6.90,µg/m3,PM25,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425882
+20,4.20,µg/m3,PM25,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425883
+2,2.03,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,H.C.Ørsted Inst.,32425884
+2,3.35,ppb,NOx'er,2019-01-01 11:00:00.000,H.C.Ørsted Inst.,32425885
+5,0.10,ppm,Carbonmonooxid,2019-01-01 11:00:00.000,H.C.Ørsted Inst.,32425886
+2,40.68,ppb,Ozon,2019-01-01 11:00:00.000,H.C.Ørsted Inst.,32425887
+2,2.10,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,H.C.Ørsted Inst.,32425888
+2,3.69,ppb,NOx'er,2019-01-01 11:30:00.000,H.C.Ørsted Inst.,32425889
+5,0.11,ppm,Carbonmonooxid,2019-01-01 11:30:00.000,H.C.Ørsted Inst.,32425890
+2,40.67,ppb,Ozon,2019-01-01 11:30:00.000,H.C.Ørsted Inst.,32425891
+2,1.89,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Aarhus Botanisk,32425892
+2,2.84,ppb,NOx'er,2019-01-01 11:00:00.000,Aarhus Botanisk,32425893
+2,41.82,ppb,Ozon,2019-01-01 11:00:00.000,Aarhus Botanisk,32425894
+2,1.89,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Aarhus Botanisk,32425895
+2,2.76,ppb,NOx'er,2019-01-01 11:30:00.000,Aarhus Botanisk,32425896
+2,41.75,ppb,Ozon,2019-01-01 11:30:00.000,Aarhus Botanisk,32425897
+2,3.75,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Ulborg,32425898
+2,4.41,ppb,NOx'er,2019-01-01 11:00:00.000,Ulborg,32425899
+2,39.09,ppb,Ozon,2019-01-01 11:00:00.000,Ulborg,32425900
+2,3.97,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Ulborg,32425901
+2,4.78,ppb,NOx'er,2019-01-01 11:30:00.000,Ulborg,32425902
+2,38.05,ppb,Ozon,2019-01-01 11:30:00.000,Ulborg,32425903
+2,0.47,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Anholt - Radar stationen,32425904
+2,1.01,ppb,NOx'er,2019-01-01 11:00:00.000,Anholt - Radar stationen,32425905
+2,0.27,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Anholt - Radar stationen,32425906
+2,0.73,ppb,NOx'er,2019-01-01 11:30:00.000,Anholt - Radar stationen,32425907
+2,6.38,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Hvidovre Fjeldstedvej,32425908
+2,7.42,ppb,NOx'er,2019-01-01 11:00:00.000,Hvidovre Fjeldstedvej,32425909
+2,6.09,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Hvidovre Fjeldstedvej,32425910
+2,6.96,ppb,NOx'er,2019-01-01 11:30:00.000,Hvidovre Fjeldstedvej,32425911
+2,-0.11,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Risø,32425912
+2,0.23,ppb,NOx'er,2019-01-01 11:00:00.000,Risø,32425913
+5,-0.15,ppm,Carbonmonooxid,2019-01-01 11:00:00.000,Risø,32425914
+2,40.60,ppb,Ozon,2019-01-01 11:00:00.000,Risø,32425915
+2,0.12,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Risø,32425916
+2,0.39,ppb,NOx'er,2019-01-01 11:30:00.000,Risø,32425917
+5,-0.13,ppm,Carbonmonooxid,2019-01-01 11:30:00.000,Risø,32425918
+2,41.01,ppb,Ozon,2019-01-01 11:30:00.000,Risø,32425919
+2,2.04,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Århus gade (3),32425920
+2,3.79,ppb,NOx'er,2019-01-01 11:00:00.000,Århus gade (3),32425921
+5,0.00,ppm,Carbonmonooxid,2019-01-01 11:00:00.000,Århus gade (3),32425922
+2,2.86,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Århus gade (3),32425923
+2,4.14,ppb,NOx'er,2019-01-01 11:30:00.000,Århus gade (3),32425924
+5,0.01,ppm,Carbonmonooxid,2019-01-01 11:30:00.000,Århus gade (3),32425925
+2,2.30,ppb,Nitrogenmonooxid,2019-01-01 10:30:00.000,Jagtvej - Skur,32425926
+2,3.50,ppb,NOx'er,2019-01-01 10:30:00.000,Jagtvej - Skur,32425927
+2,2.44,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Jagtvej - Skur,32425928
+2,4.11,ppb,NOx'er,2019-01-01 11:00:00.000,Jagtvej - Skur,32425929
+2,-0.12,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Aalborg Tag ny,32425930
+2,0.53,ppb,NOx'er,2019-01-01 11:00:00.000,Aalborg Tag ny,32425931
+2,41.84,ppb,Ozon,2019-01-01 11:00:00.000,Aalborg Tag ny,32425932
+2,-0.18,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Aalborg Tag ny,32425933
+2,0.72,ppb,NOx'er,2019-01-01 11:30:00.000,Aalborg Tag ny,32425934
+2,41.47,ppb,Ozon,2019-01-01 11:30:00.000,Aalborg Tag ny,32425935
+2,-0.09,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Føllesbjerg,32425936
+2,0.40,ppb,NOx'er,2019-01-01 11:00:00.000,Føllesbjerg,32425937
+2,38.97,ppb,Ozon,2019-01-01 11:00:00.000,Føllesbjerg,32425938
+2,-0.14,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Føllesbjerg,32425939
+2,0.24,ppb,NOx'er,2019-01-01 11:30:00.000,Føllesbjerg,32425940
+2,39.43,ppb,Ozon,2019-01-01 11:30:00.000,Føllesbjerg,32425941
+2,2.72,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,Odense Gade Grønløkkevej 20A,32425942
+2,3.58,ppb,NOx'er,2019-01-01 11:00:00.000,Odense Gade Grønløkkevej 20A,32425943
+5,-0.03,ppm,Carbonmonooxid,2019-01-01 11:00:00.000,Odense Gade Grønløkkevej 20A,32425944
+2,2.61,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,Odense Gade Grønløkkevej 20A,32425945
+2,3.85,ppb,NOx'er,2019-01-01 11:30:00.000,Odense Gade Grønløkkevej 20A,32425946
+5,-0.02,ppm,Carbonmonooxid,2019-01-01 11:30:00.000,Odense Gade Grønløkkevej 20A,32425947
+2,3.45,ppb,Nitrogenmonooxid,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425948
+2,7.15,ppb,NOx'er,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425949
+5,0.17,ppm,Carbonmonooxid,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425950
+2,34.69,ppb,Ozon,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425951
+2,0.03,ppb,Svovldioxid,2019-01-01 11:00:00.000,H.C. Andersen Boulevard - Skur,32425952
+2,3.94,ppb,Nitrogenmonooxid,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425953
+2,7.76,ppb,NOx'er,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425954
+5,0.17,ppm,Carbonmonooxid,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425955
+2,35.84,ppb,Ozon,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425956
+2,0.14,ppb,Svovldioxid,2019-01-01 11:30:00.000,H.C. Andersen Boulevard - Skur,32425957
+20,52.70,µg/m3,PM10,2019-01-01 12:00:00.000,H.C. Andersen Boulevard - Skur,32425958
+20,39.50,µg/m3,PM10,2019-01-01 12:30:00.000,H.C. Andersen Boulevard - Skur,32425959
+20,25.00,µg/m3,PM10,2019-01-01 12:00:00.000,Risø,32425960
+20,28.10,µg/m3,PM10,2019-01-01 12:30:00.000,Risø,32425961
+20,7.10,µg/m3,PM25,2019-01-01 12:00:00.000,H.C. Andersen Boulevard - Skur,32425962
+20,7.80,µg/m3,PM25,2019-01-01 12:30:00.000,H.C. Andersen Boulevard - Skur,32425963
+2,2.35,ppb,Nitrogenmonooxid,2019-01-01 12:00:00.000,H.C.Ørsted Inst.,32425964
+2,3.64,ppb,NOx'er,2019-01-01 12:00:00.000,H.C.Ørsted Inst.,32425965
+
+(1000 rows affected)
+
+
+Completion time: 2020-03-30T17:34:02.4140163+02:00
